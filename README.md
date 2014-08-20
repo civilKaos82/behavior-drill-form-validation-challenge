@@ -4,8 +4,7 @@
 
 * Use jQuery
 * Change the DOM based on events
-* Use AJAX actions to change views based on async data
-* Use JavaScript / AJAX to validate data in-client
+* Use JavaScript to validate data in-client
 
 ## Summary
 
